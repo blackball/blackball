@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Hui, the founder of RVBUST. RVBUST is a leading intelligent sensing product and solution provider. Our products are widely used in various fields such as automotive manufacturing, aerospace, rail transit, 3C electronics, metal processing, beauty and nail care, health and wellness, and smart agriculture, etc. 
+I'm Hui, the founder of RVBUST. RVBUST focuses on Smart Sensing and is committed to becoming the trusted intelligence provider for vertical customers. Our market presence already covers mainland China, Taiwan, and South Korea, and within the next two years you may see our products all over the world. 
 
-We are always looking for passionate and talented engineers (software, computer vision).   
+Despite running a company, I'm still a code geek at heart. You'll often find me at Starbucks on weekends, diving into your projects and code. Old habits die hard!
 
 /Hui
-
+www.rvbust.com
 hui.li@rvbust.com
