@@ -4,6 +4,8 @@ I'm Hui, the founder of RVBUST. RVBUST focuses on Smart Sensing and is committed
 
 Despite running a company, I'm still a code geek at heart. You'll often find me at Starbucks on weekends, diving into your projects and code. Old habits die hard!
 
+If you'd like to discuss or exchange ideas with me, feel free to reach out via the email below. Thank you!
+
 /Hui
-www.rvbust.com
-hui.li@rvbust.com
+
+bugway@gmail.com
