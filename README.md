@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm Hui, the founder of RVBUST. RVBUST focuses on Smart Sensing and is committed to becoming the trusted intelligence provider for vertical customers. Our market presence already covers mainland China, Taiwan, and South Korea, and within the next two years you may see our products all over the world. 
+I'm Hui, and I love building things. I reckon I'll be an architect and an engineer for the rest of my life—and I truly enjoy the process.
 
-Despite running a company, I'm still a code geek at heart. You'll often find me at Starbucks on weekends, diving into your projects and code. Old habits die hard!
+I hope that while living a relaxed and happy life, I can make a modest contribution to this world.
 
-If you'd like to discuss or exchange ideas with me, feel free to reach out via the email below. Thank you!
+I am the founder of RVBUST. Although running a startup brings many challenges, in my free time, I still enjoy hiking, climbing, and sleeping.
 
-/Hui
-
-bugway@gmail.com
+Thanks for visiting my page. Have a great day!
